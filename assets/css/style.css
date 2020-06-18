@@ -1,0 +1,17 @@
+body {
+   background: url(https://source.unsplash.com/random);
+}
+header {
+   display: flex;
+   justify-content: space-between;
+   align-items: baseline;
+   border-bottom: 1px solid black;
+   color: white;
+}
+ul {
+   display: flex;
+   list-style: none;
+}
+li {
+   padding-right: 20px;
+}
